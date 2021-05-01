@@ -4,15 +4,16 @@
 
 <ul><h4>Os principais conceitos explorados serão:<br><br>
 
-<li><h5>Ferramentas Necessárias
-<li><h5>Hello World em React
-<li><h5>Introdução ao JSX
-<li><h5>Renderizando Elementos
-<li><h5>Componentes React
-<li><h5>Estilizando componentes com CSS
-<li><h5>Hooks
-<li><h5>Gerenciamento de Estado
-<li><h5>State e Props
-<li><h5>Renderização Condicional
-<li><h5>Eventos em React
-<li<h5>>Renderizando Listas
+
+<h6><li>Ferramentas Necessárias
+<li>Hello World em React
+<li>Introdução ao JSX
+<li>Renderizando Elementos
+<li>Componentes React
+<li>Estilizando componentes com CSS
+<li>Hooks
+<li>Gerenciamento de Estado
+<li>State e Props
+<li>Renderização Condicional
+<li>Eventos em React
+<li>Renderizando Listas
