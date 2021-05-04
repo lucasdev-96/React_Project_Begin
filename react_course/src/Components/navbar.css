@@ -1,0 +1,11 @@
+.navbar {
+    display: flex; 
+    background: linear-gradient(rgba(7, 105, 105, 0.6), rgba(60, 241, 241,0.9));
+    padding: 8px;
+    color: white;
+    font-weight: 900;
+}
+ 
+.span {
+    letter-spacing: 1.3px;
+}

@@ -1,0 +1,14 @@
+body {
+  background: rgba(19, 70, 236,0.9);
+  color: white;
+}
+
+.container {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  padding: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 8px;
+}
